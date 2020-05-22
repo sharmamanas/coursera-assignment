@@ -24,7 +24,7 @@ section
 	overflow: 500px;
 	font-size: 1.2em;
 	margin-top: 130pz;
-
+	
 }
 h2 {
 	float: right;
@@ -67,7 +67,7 @@ p
 .col-lg-12
 {
 float: left;
-border : 1px soloid green;
+padding: 15px;
 }
 .col-lg-1 {
 width: 8.33%;

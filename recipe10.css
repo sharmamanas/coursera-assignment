@@ -1,0 +1,25 @@
+.header1 {
+	
+    background-color: purple;
+    color: white;
+    text-align: center;
+	height: 70px;
+    
+}
+
+.header2 {
+	
+    text-align: center;
+
+}
+
+.image {
+
+	width: auto;
+	height: auto;
+}
+
+.leftside, .rightside {
+     	height: 100vh;
+	   width: 100%;
+}

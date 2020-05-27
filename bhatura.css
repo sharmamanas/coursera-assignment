@@ -1,0 +1,32 @@
+.header1 {
+	
+    background-color: silver;
+    color: white;
+    text-align: center;
+	height: 100px;
+    
+}
+
+.header2 {
+	
+    text-align: center;
+
+}
+
+.image {
+
+	width: auto;
+	height: auto;
+}
+
+.leftside, .rightside {
+     	height: 100%;
+	   width: 100%;
+}
+.go {
+	border: 10px solid black;
+	text-align: center;
+	background-color: black;
+	color: white;
+	
+}
